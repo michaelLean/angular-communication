@@ -1,7 +1,8 @@
 
 ### Technologies:
 
-    1. Angular 9  
+    1. Angular 9
+    2. Typescript
 #
 ### Project:
 
